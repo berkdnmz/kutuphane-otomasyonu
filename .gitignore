@@ -1,0 +1,26 @@
+# Derleme çıktıları
+/out/
+/lib/
+
+# IntelliJ IDEA ayarları
+/.idea/
+/kutuphaneOtomasyonu.iml
+
+# Kaynak kod (yükle)
+!/src/
+
+# Config dosyası (gizli bilgiler)
+/config.properties
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+*.temp
+*.bak
+
+# JAR dosyaları
+*.jar
