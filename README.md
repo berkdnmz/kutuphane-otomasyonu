@@ -14,6 +14,7 @@ Basit bir Java tabanlı masaüstü kütüphane otomasyonu uygulamasıdır. Kulla
 - [Kullanım](#kullanım)  
 - [Dosya Yapısı](#dosya-yapısı)  
 - [Proje Sahibi](#proje-sahibi)
+- [Lisans](#Lisans)
 
 ---
 
@@ -100,7 +101,12 @@ Bu Java projesi, kullanıcıların kitap yönetimi yapmasına olanak sağlayan b
     └── README.md                 # Proje açıklaması (bu dosya)
 
 ---
+## Lisans
 
+Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak sunulmuştur.  
+Dilediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz — ancak orijinal geliştiriciyi belirtmeniz gerekir.
+
+---
 ## Proje Sahibi
 
 **Berk DÖNMEZ**  
